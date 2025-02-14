@@ -24,10 +24,10 @@
 ---
 
 ### 🌎 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourspotify)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/youryoutube)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/theodorus-yuriputra-296195345/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/theodorusyw?igsh=MXU2ZmlzbmtzdGQ5Ng==)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/yourspotify](https://open.spotify.com/user/31wejvd5ypijcmu27lodamq4afci?si=965a73aa148046ce))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/@yourgodzilla19?si=xo1tEzjqSZC6lNXe)
 
 ---
 
